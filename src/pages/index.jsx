@@ -35,5 +35,3 @@ document.querySelector('#root').innerHTML = render(
     <HomePage/>
   </>
 );
-
-//document.querySelector("#addProduct").addEventListener("click", handleProduct)
